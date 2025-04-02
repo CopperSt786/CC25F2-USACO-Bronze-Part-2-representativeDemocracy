@@ -1,4 +1,4 @@
-System Installation
+**System Installation**
 
 [ Memory: 16 MB, CPU: 1 sec ]
 
@@ -19,19 +19,20 @@ OUTPUT FORMAT
 
 SAMPLE INPUT
 
-6 7
-1 2 6 5 7 3 4
-2 4 8 7 8 6 6
-3 5 7 8 5 4 1
-4 6 5 9 4 5 7
-3 7 4 3 5 3 2
-4 3 2 6 7 8 9
+    6 7
+    1 2 6 5 7 3 4
+    2 4 8 7 8 6 6
+    3 5 7 8 5 4 1
+    4 6 5 9 4 5 7
+    3 7 4 3 5 3 2
+    4 3 2 6 7 8 9
 SAMPLE OUTPUT
 
-61
-1 3
-MODE: normal
+    61
+    1 3
+<br>
 
-Solution Pseudocode
-Language 
-cpp
+
+  
+MODE: normal<br>
+Language: cpp<br>
