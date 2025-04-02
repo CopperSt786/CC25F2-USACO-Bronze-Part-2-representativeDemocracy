@@ -1,4 +1,5 @@
 System Installation
+
 [ Memory: 16 MB, CPU: 1 sec ]
 
 Farmer John wants to install a new sprinkler system on his farm. However, because new sprinkler systems are expensive, Farmer John can only afford to have new sprinklers on part of his farm. To figure out where on his farm he will install the system, he divides his farm up into a grid with NR (3 <= NR <= 100) rows and NC (3 <= NC <= 100) columns, determines the number of cows graze on each square of the grid Prc, and decides to put the new sprinklers on the 3 x 3 grid with the most cows so the grass will grow better on those squares.
